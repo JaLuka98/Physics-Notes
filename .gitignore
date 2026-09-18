@@ -1,0 +1,12 @@
+/.quarto/
+**/*.quarto_ipynb
+
+/_site/
+/_book/
+/public/
+/.quarto.yml.local
+/_*.local
+/env/
+/venv/
+/condaenv/
+.DS_Store
