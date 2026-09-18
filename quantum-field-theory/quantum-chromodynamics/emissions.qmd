@@ -1,0 +1,42 @@
+---
+title: "Emissions in QCD"
+author: "Jan Lukas Späh"
+date: last-modified
+---
+
+{{< include /_macros.qmd >}}
+
+# Introduction
+
+In perturbative QCD, radiation becomes enhanced when an emitted parton
+is either **soft** or **collinear** to another parton.
+This behaviour is important for understanding the kinematics of QCD processes.
+
+# Factorisation of emissions
+
+Here, we work in the limit of collinear emissions.
+In this example, let us consider the process $\PQq\PQqbar \to \ell^+\ell^- + \Pg$, i.e. the production of a lepton-antilepton pair together with an emitted gluon in a quark-antiquark collision.
+This is one contribution to the Drell-Yan (DY) process with a non-zero non-zero transverse momentum of the lepton pair.
+The emission is characterised by the fractional momentum transfer $1-z$ of the quark (or antiquark) to the gluon.
+The momentum fraction of the parton after the emission is therefore $z$.
+Schematically, the squared amplitude factorises into the squared amplitude of the hard process and a factor that describes the emission of the gluon:
+
+$$
+\left \lvert \mathcal{M}_{\PQq\PQqbar \to \ell^+\ell^-\Pg} \right \rvert^2 \sim \left \lvert \mathcal{M}_{\PQq\PQqbar \to \ell^+\ell^-} \right \rvert^2 \mathcal{P}_{\PQq \to \PQq \mathrm{g}} \cdot 4\pi\alphastrong \cdot \frac{2}{s_{\PQq \Pg}}.
+$$
+
+Here, $s_{\PQq \Pg} = 2 p_\PQq p_\Pg$ is a measure for the scale of the emission in terms of its energy and collinearity with the emitter.
+The angular dependence is parameterised with the polar emission angle between the quark and the gluon $\theta$.
+The four-vector product can be simplified for $m_\PQq = m_\Pg = 0$ and small emission angles $\theta \ll 1$ as:
+
+$$
+p_\PQq p_\Pg = E_\PQq E_\Pg - \vec{p}_\PQq \cdot \vec{p}_\Pg = E_\PQq E_\Pg (1-\cos\theta) \approx E_\PQq E_\Pg \theta^2/2
+$$
+
+To further understand the behaviour of emissions, we discuss the splitting function $\mathcal{P}_{\PQq \to \PQq \Pg}$ in the following.
+
+# Splitting functions
+
+# Soft emissions
+
+# Collinear emissions
