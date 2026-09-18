@@ -1,51 +1,47 @@
 project:
-  type: book
+  type: website
+  output-dir: _book
 
-book:
+website:
   title: "Physics Notes"
-  author: "Jan Lukas Späh"
   page-navigation: true
+  sidebar:
+    contents:
+      - index.qmd
 
-  chapters:
-    - index.qmd
+      - section: "Classical Mechanics"
+        contents:
+          - classical-mechanics/index.qmd
 
-    - part: "Classical Mechanics"
-      chapters:
-        - classical-mechanics/index.qmd
+      - section: "Electrodynamics"
+        contents:
+          - electrodynamics/index.qmd
 
-    - part: "Electrodynamics"
-      chapters:
-        - electrodynamics/index.qmd
+      - section: "Quantum Mechanics"
+        contents:
+          - quantum-mechanics/index.qmd
 
-    - part: "Quantum Mechanics"
-      chapters:
-        - quantum-mechanics/index.qmd
+      - section: "Statistical Physics"
+        contents:
+          - statistical-physics/index.qmd
 
-    - part: "Statistical Physics"
-      chapters:
-        - statistical-physics/index.qmd
+      - section: "Quantum Field Theory"
+        contents:
+          - quantum-field-theory/index.qmd
 
-    - part: "Quantum Field Theory"
-      chapters:
-        - quantum-field-theory/index.qmd
-
-    - part: "Collider Physics"
-      chapters:
-        - collider-physics/index.qmd
-
-    - part: "Hadron Colliders"
-      chapters:
-        - collider-physics/hadron-colliders/index.qmd
-        - collider-physics/hadron-colliders/kinematics.qmd
-        - collider-physics/hadron-colliders/factorisation.qmd
-        - collider-physics/hadron-colliders/parton-showers.qmd
-        - collider-physics/hadron-colliders/monte-carlo-generators.qmd
-
-    - part: "Higgs Physics"
-      chapters:
-        - collider-physics/hadron-colliders/higgs-physics/index.qmd
-        - collider-physics/hadron-colliders/higgs-physics/production-modes.qmd
-        - collider-physics/hadron-colliders/higgs-physics/higgs-transverse-momentum.qmd
+      - section: "Hadron Collider Physics"
+        contents:
+          - hadron-colliders/index.qmd
+          - hadron-colliders/index.qmd
+          - hadron-colliders/kinematics.qmd
+          - hadron-colliders/factorisation.qmd
+          - hadron-colliders/parton-showers.qmd
+          - hadron-colliders/monte-carlo-generators.qmd
+          - section: "Higgs Physics"
+            contents:
+              - hadron-colliders/higgs-physics/index.qmd
+              - hadron-colliders/higgs-physics/production-modes.qmd
+              - hadron-colliders/higgs-physics/higgs-transverse-momentum.qmd
 
 bibliography: references.bib
 
