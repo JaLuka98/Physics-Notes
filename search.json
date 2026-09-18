@@ -1,0 +1,203 @@
+[
+  {
+    "objectID": "statistical-physics/index.html",
+    "href": "statistical-physics/index.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Statistical Physics",
+      "index.html"
+    ]
+  },
+  {
+    "objectID": "hadron-colliders/factorisation.html",
+    "href": "hadron-colliders/factorisation.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Hadron Collider Physics",
+      "factorisation.html"
+    ]
+  },
+  {
+    "objectID": "hadron-colliders/index.html",
+    "href": "hadron-colliders/index.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Hadron Collider Physics",
+      "index.html"
+    ]
+  },
+  {
+    "objectID": "hadron-colliders/higgs-physics/higgs-transverse-momentum.html",
+    "href": "hadron-colliders/higgs-physics/higgs-transverse-momentum.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Hadron Collider Physics",
+      "Higgs Physics",
+      "higgs-transverse-momentum.html"
+    ]
+  },
+  {
+    "objectID": "hadron-colliders/higgs-physics/index.html",
+    "href": "hadron-colliders/higgs-physics/index.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Hadron Collider Physics",
+      "Higgs Physics",
+      "index.html"
+    ]
+  },
+  {
+    "objectID": "classical-mechanics/index.html",
+    "href": "classical-mechanics/index.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Classical Mechanics",
+      "index.html"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nPreface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "quantum-field-theory/quantum-chromodynamics/emissions.html",
+    "href": "quantum-field-theory/quantum-chromodynamics/emissions.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Quantum Field Theory",
+      "Quantum Chromodynamics",
+      "emissions.html"
+    ]
+  },
+  {
+    "objectID": "quantum-mechanics/index.html",
+    "href": "quantum-mechanics/index.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Quantum Mechanics",
+      "index.html"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nIntroduction\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\n\n\n\nReferences\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "electrodynamics/index.html",
+    "href": "electrodynamics/index.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Electrodynamics",
+      "index.html"
+    ]
+  },
+  {
+    "objectID": "quantum-field-theory/quantum-chromodynamics/index.html",
+    "href": "quantum-field-theory/quantum-chromodynamics/index.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Quantum Field Theory",
+      "Quantum Chromodynamics",
+      "index.html"
+    ]
+  },
+  {
+    "objectID": "quantum-field-theory/index.html",
+    "href": "quantum-field-theory/index.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Quantum Field Theory",
+      "index.html"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nSummary\nIn summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "hadron-colliders/monte-carlo-generators.html",
+    "href": "hadron-colliders/monte-carlo-generators.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Hadron Collider Physics",
+      "monte-carlo-generators.html"
+    ]
+  },
+  {
+    "objectID": "hadron-colliders/higgs-physics/production-modes.html",
+    "href": "hadron-colliders/higgs-physics/production-modes.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Hadron Collider Physics",
+      "Higgs Physics",
+      "production-modes.html"
+    ]
+  },
+  {
+    "objectID": "hadron-colliders/parton-showers.html",
+    "href": "hadron-colliders/parton-showers.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Hadron Collider Physics",
+      "parton-showers.html"
+    ]
+  },
+  {
+    "objectID": "hadron-colliders/kinematics.html",
+    "href": "hadron-colliders/kinematics.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Hadron Collider Physics",
+      "kinematics.html"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nReferences"
+  }
+]
