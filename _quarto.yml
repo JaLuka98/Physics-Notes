@@ -28,6 +28,10 @@ website:
       - section: "Quantum Field Theory"
         contents:
           - quantum-field-theory/index.qmd
+          - section: "Quantum Chromodynamics"
+            contents:
+              - quantum-field-theory/quantum-chromodynamics/index.qmd
+              - quantum-field-theory/quantum-chromodynamics/emissions.qmd
 
       - section: "Hadron Collider Physics"
         contents:
