@@ -116,13 +116,13 @@
   {
     "objectID": "quantum-field-theory/quantum-chromodynamics/emissions.html",
     "href": "quantum-field-theory/quantum-chromodynamics/emissions.html",
-    "title": "",
+    "title": "Emissions in QCD",
     "section": "",
-    "text": "Code",
+    "text": "$$ % Particles \n% Couplings \n$$\n\n\nIntroduction\nIn perturbative QCD, radiation becomes enhanced when an emitted parton is either soft or collinear to another parton. This behaviour is important for understanding the kinematics of QCD processes.\n\n\nFactorisation of emissions\nHere, we work in the limit of collinear emissions. In this example, let us consider the process \\mathrm{q}\\overline{\\mathrm{q}}\\to \\ell^+\\ell^- + \\mathrm{g}, i.e. the production of a lepton-antilepton pair together with an emitted gluon in a quark-antiquark collision. This is one contribution to the Drell-Yan (DY) process with a non-zero non-zero transverse momentum of the lepton pair. The emission is characterised by the fractional momentum transfer 1-z of the quark (or antiquark) to the gluon. The momentum fraction of the parton after the emission is therefore z. Schematically, the squared amplitude factorises into the squared amplitude of the hard process and a factor that describes the emission of the gluon:\n\n\\left \\lvert \\mathcal{M}_{\\mathrm{q}\\overline{\\mathrm{q}}\\to \\ell^+\\ell^-\\mathrm{g}} \\right \\rvert^2 \\sim \\left \\lvert \\mathcal{M}_{\\mathrm{q}\\overline{\\mathrm{q}}\\to \\ell^+\\ell^-} \\right \\rvert^2 \\mathcal{P}_{\\mathrm{q}\\to \\mathrm{q}\\mathrm{g}} \\cdot 4\\pi\\alpha_{\\mathrm{s}}\\cdot \\frac{2}{s_{\\mathrm{q}\\mathrm{g}}}.\n\nHere, s_{\\mathrm{q}\\mathrm{g}} = 2 p_\\mathrm{q}p_\\mathrm{g} is a measure for the scale of the emission in terms of its energy and collinearity with the emitter. The angular dependence is parameterised with the polar emission angle between the quark and the gluon \\theta. The four-vector product can be simplified for m_\\mathrm{q}= m_\\mathrm{g}= 0 and small emission angles \\theta \\ll 1 as:\n\np_\\mathrm{q}p_\\mathrm{g}= E_\\mathrm{q}E_\\mathrm{g}- \\vec{p}_\\mathrm{q}\\cdot \\vec{p}_\\mathrm{g}= E_\\mathrm{q}E_\\mathrm{g}(1-\\cos\\theta) \\approx E_\\mathrm{q}E_\\mathrm{g}\\theta^2/2\n\nTo further understand the behaviour of emissions, we discuss the splitting function \\mathcal{P}_{\\mathrm{q}\\to \\mathrm{q}\\mathrm{g}} in the following.\n\n\nSplitting functions\n\n\nSoft emissions\n\n\nCollinear emissions",
     "crumbs": [
       "Quantum Field Theory",
       "Quantum Chromodynamics",
-      "emissions.html"
+      "Emissions in QCD"
     ]
   },
   {
